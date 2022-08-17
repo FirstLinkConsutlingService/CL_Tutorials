@@ -1,0 +1,8 @@
+<RCC>
+  <qresource>
+    <file>icons/fugue-icons-3-3/icons/blue-document-text.png</file>
+    <file>icons/fugue-icons-3-3/icons/new.png</file>
+    <file>icons/fugue-icons-3-3/icons/document--plus.png</file>
+    <file>icons/fugue-icons-3-3/icons/blue-document--pencil.png</file>
+  </qresource>
+</RCC>
